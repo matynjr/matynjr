@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Ffull-stack-developer&psig=AOvVaw0U6E5TOkbSAWXr3Q4wvRpN&ust=1687091238428000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICG3uGmyv8CFQAAAAAdAAAAABAo)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Martin Muganzi</h1>
 <h3 align="center">A passionate frontend developer from Kampala Uganda</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_130370493_frontend-development-web-banner-concept-website-interface.html&psig=AOvVaw2Jv12JqTBeMkqsS4AXKQLs&ust=1687090999581000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCb7--lyv8CFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matynjr&label=Profile%20views&color=0e75b6&style=flat" alt="matynjr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matynjr" alt="matynjr" /></a> </p>
