@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Martin Muganzi</h1>
 <h3 align="center">A passionate frontend developer from Kampala Uganda</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2020/04/front-end-developer-skills.png?resize=575%2C517&ssl=1">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matynjr&label=Profile%20views&color=0e75b6&style=flat" alt="matynjr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matynjr" alt="matynjr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React,Node js**
 
