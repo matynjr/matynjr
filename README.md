@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Ffull-stack-developer&psig=AOvVaw0U6E5TOkbSAWXr3Q4wvRpN&ust=1687091238428000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICG3uGmyv8CFQAAAAAdAAAAABAo)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Martin Muganzi</h1>
 <h3 align="center">A passionate frontend developer from Kampala Uganda</h3>
 
