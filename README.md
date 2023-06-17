@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Martin Muganzi</h1>
 <h3 align="center">A passionate frontend developer from Kampala Uganda</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2020/04/front-end-developer-skills.png?resize=575%2C517&ssl=1">
