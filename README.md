@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Kampala Uganda</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2020/04/front-end-developer-skills.png?resize=575%2C517&ssl=1">
 
-- 🌱 I’m currently learning **React,Node js**
+- 🌱 I’m currently looking for work as a **Front-end software developer**
 
 - 👯 I’m looking to collaborate on **any open source front end react projects**
 
