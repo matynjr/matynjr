@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking for work as a **Front-end software developer**
 
-- 👯 I’m looking to collaborate on **any open source front end react projects**
+- 👯 I’m looking to collaborate on **any open source front end React projects**
 
 - 👨‍💻 All of my projects are available at [martinmuganzi.netlify.app/](martinmuganzi.netlify.app/)
 
